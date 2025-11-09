@@ -13,6 +13,12 @@ import project_img_3 from './project_img_3.jpg'
 import project_img_4 from './project_img_4.jpg'
 import project_img_5 from './project_img_5.jpg'
 import project_img_6 from './project_img_6.jpg'
+import project_img_7 from './project_img_7.jpg'
+import project_img_8 from './project_img_8.jpg'
+import project_img_9 from './project_img_9.jpg'
+import project_img_10 from './project_img_10.jpg'
+import project_img_11 from './project_img_11.jpg'
+import project_img_12 from './project_img_12.jpg'
 import profile_img_1 from './profile_img_1.png'
 import profile_img_2 from './profile_img_2.png'
 import profile_img_3 from './profile_img_3.png'
@@ -29,6 +35,14 @@ export const assets = {
     project_img_2,
     project_img_3,
     project_img_4,
+    project_img_5,
+    project_img_6,
+    project_img_7,
+    project_img_8,
+    project_img_9,
+    project_img_10,
+    project_img_11,
+    project_img_12,
     left_arrow,
     right_arrow,
 }
@@ -71,28 +85,46 @@ export const projectsData = [
       image: project_img_6
     },
      {
-      title: "Central Square",
-      price: "₹ 21,50,000",
-      location: "Delhi",
-      image: project_img_4
+      title: "Connaught Place",
+      price: "₹ 13,300,000",
+      location: "New Delhi",
+      image: project_img_7
+    },
+    {
+      title: "Orchid Crest",
+      price: "₹ 11,250,000",
+      location: "Bengaluru",
+      image: project_img_8
+    },
+    {
+      title: "Sea Breeze",
+      price: "₹ 20,32,200",
+      location: "Chennai",
+      image: project_img_9
+    },
+     {
+      title: "Ganges View",
+      price: "₹ 7,800,000",
+      location: "Hyderabad",
+      image: project_img_10
     },
     {
       title: "Vista Verde",
-      price: "₹ 26,50,000",
-      location: "Nashik",
-      image: project_img_5
+      price: "₹ 6,760,000",
+      location: "Ahmedabad",
+      image: project_img_11
     },
     {
       title: "Serenity Suites",
-      price: "₹ 12,50,000",
-      location: "Mumbai",
-      image: project_img_6
+      price: "₹ 40,35,000",
+      location: "Jaipur",
+      image: project_img_12
     },
      {
       title: "Central Square",
       price: "₹ 21,50,000",
       location: "Delhi",
-      image: project_img_4
+      image: project_img_2
     },
     {
       title: "Vista Verde",
@@ -104,25 +136,7 @@ export const projectsData = [
       title: "Serenity Suites",
       price: "₹ 12,50,000",
       location: "Mumbai",
-      image: project_img_6
-    },
-     {
-      title: "Central Square",
-      price: "₹ 21,50,000",
-      location: "Delhi",
-      image: project_img_4
-    },
-    {
-      title: "Vista Verde",
-      price: "₹ 26,50,000",
-      location: "Nashik",
-      image: project_img_5
-    },
-    {
-      title: "Serenity Suites",
-      price: "₹ 12,50,000",
-      location: "Mumbai",
-      image: project_img_6
+      image: project_img_8
     },
     
   ];
@@ -142,7 +156,7 @@ export const projectsData = [
         image: profile_img_2,
         alt: "Portrait of Richard Nelson",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "They understood our vision from day one and turned complex requirements into a clean, user-friendly interface. Their attention to detail and commitment to delivering the best user experience made our product stand out. Highly recommended for any UI/UX project!."
     },
     {
         name: "Valmik Kannonr",
@@ -150,6 +164,6 @@ export const projectsData = [
         image: profile_img_3,
         alt: "Portrait of James Washington",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "An exceptional Co-Founder with a clear vision and strong leadership in the real estate tech space. valmik played a crucial role in transforming complex real estate processes into seamless digital experiences."
     }
 ];

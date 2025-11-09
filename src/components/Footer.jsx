@@ -30,7 +30,7 @@ const Footer = () => {
           <div className="flex space-x-4 mt-6">
             {/* LinkedIn */}
             <a
-              href="https://www.linkedin.com/in/tejasahire07?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              href="https://www.linkedin.com/in/tejasahire07/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 bg-gray-800 rounded-full hover:bg-blue-600 text-gray-300 hover:text-white transition-all"
@@ -40,7 +40,7 @@ const Footer = () => {
 
             {/* GitHub */}
             <a
-              href="https://github.com/TejasAhire07/tejas"
+              href="https://github.com/TejasAhire07"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 bg-gray-800 rounded-full hover:bg-gray-700 text-gray-300 hover:text-white transition-all"

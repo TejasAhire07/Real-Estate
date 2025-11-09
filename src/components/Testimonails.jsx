@@ -15,7 +15,7 @@ const Testimonials = () => {
       {/* 🔹 Section Header */}
       <div className="text-center mb-14">
         <h1 className="text-3xl sm:text-5xl font-extrabold text-gray-900 mb-4">
-          What Our <span className="text-blue-600 underline underline-offset-4">Clients Say</span>
+          What People <span className="text-blue-600 underline underline-offset-4">Think About Us</span>
         </h1>
         <p className="text-gray-500 text-lg max-w-xl mx-auto">
           Real stories from people who turned their dreams into homes.
